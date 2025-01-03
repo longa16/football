@@ -1,5 +1,5 @@
 # WEB-SOC.CER.KET
-est un jeu de football en reseau fais en three.js, où autant de joeurs peuvent se connecter en mode battle royale ( dans la limite de ce que le serveur peut supporter).
+is a network soccer game made in three.js, where as many players as possible can connect in battle royale mode (within the limits of what the server can handle).
 
 ## launch the game
 to start the game follow :
