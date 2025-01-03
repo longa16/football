@@ -4,8 +4,14 @@ est un jeu de football en reseau fais en three.js, où autant de joeurs peuvent 
 ## launch the game
 to start the game follow :
 - clone the repository 
-```git clone https://github.com/longa16/web-Soc.cer.ket.git```
+``` text
+git clone https://github.com/longa16/web-Soc.cer.ket.git
+```
 - start server (node.js installed first)
-```node server.js```
+``` text
+node server.js
+```
 - go to the browser and launch the game 
-```localhost:3000``` 
+``` text
+localhost:3000
+``` 
